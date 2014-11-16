@@ -1,0 +1,129 @@
+body{
+	font-family:Futura;
+}	
+h3, h2, p, h4 {
+	
+	
+	text-align:right;
+}
+
+h2{
+	font-size: 52pt;
+	margin: 5px;
+	color:#f69e51;
+}
+.follow {
+	text-align:left ;
+	float:left;
+	margin-right:10px;
+	text-decoration:none;
+}
+#wordTitle, #tsTitle{
+	color:#014a73;
+	font-size:24pt;
+}
+#tsTitle{
+	text-align: left
+}
+#tsSubtitle{
+	text-align: left;
+}
+
+#activeTable {
+	margin-left: 100px;
+}
+#words {
+	margin-right:100px;
+}
+.well {
+	background-color: #A8A8A8;
+	border-radius: 8px;
+	height:450px;
+	width:300px;
+	color:#014a73;
+}
+#wordSubtitle{
+	text-align:right;
+}
+.selectize-control{
+	margin-left: 40px;
+	float:left;
+}
+#indLabel {
+	margin-left: 80px;
+	float:left;
+	margin-top: 5px;
+	margin-bottom: 5px;
+
+}
+.shiny-input-radiogroup {
+margin-left: 40px;
+float:left;
+}
+#sevLabel{
+	margin-left: 190px;
+	float:left;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#attribution{
+	float:right;
+}
+.control-label {
+	font-size:0;
+}
+#oshaLogo, #bayeshack {
+	width:100px;
+	float:left;
+	margin-right:10px;
+}
+
+#v1, #v3, #v5, #v7, #v9, #v2, #v4, #v6, #v8, #v10  {
+	text-align:center;
+}
+#v1 {
+	font-size: 22pt;
+	color:#f69e51;
+}
+#v2 {
+	font-size: 21pt;
+	color:#f5A967;
+}
+#v3 {
+	font-size: 20pt;
+	color:#F5B073;
+}
+#v4 {
+	font-size: 19pt;
+	color:#f5bA87;
+}
+#v5 {
+	font-size: 18pt;
+	color:#EBBC94;
+}
+#v6 {
+	font-size: 17pt;
+	color:#E0B996;
+}
+#v7 {
+	font-size: 16pt;
+	color:#D9B79A;
+}
+#v8 {
+	font-size: 15pt;
+	color:#CFB299;
+}
+#v9 {
+	font-size: 14pt;
+	color:#B5A393;
+}
+#v10 {
+	font-size: 13pt;
+	color:#AB9C90;
+}
+
+
+
+
+
